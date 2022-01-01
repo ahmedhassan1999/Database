@@ -11,4 +11,3 @@ fi
 return $search
 }
 exitDir $1
-echo $search
